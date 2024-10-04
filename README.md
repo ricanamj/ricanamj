@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricanamj
 - 👀 I’m interested in machine learning and data science with applications to societal issues.
-- 🌱 I’m currently learning how to program using R and delve deeper into machine learning models.
+- 🌱 I’m currently learning how to program using Python and delve deeper into machine learning models.
 - 📫 How to reach me: Email me at maryjune.ricana@gmail.com
 
 <!---
